@@ -1,1 +1,1 @@
-this is b.txtfile
+this is b.txtfile only
